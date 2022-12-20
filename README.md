@@ -1,5 +1,5 @@
 # karthikFRT-
-# ✨ Telugu Health  ✨
+# ✨ G-WONDERLAND ✨
 
 This is a web based application developed for health related lifestyle based website in india
 
