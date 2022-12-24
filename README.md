@@ -8,7 +8,7 @@ This is a web based application developed for health related lifestyle based web
 
 *Project Link* -https://polite-ocean-0ee236e00.2.azurestaticapps.net
 
-*Project demo video link* -
+*Project demo video link* -  https://youtu.be/c9GQLHUqnF4
 
 
 ## Features and Functionalities 😃
